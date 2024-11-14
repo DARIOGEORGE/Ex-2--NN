@@ -1,4 +1,4 @@
-<H3>Name : Dario G</H3> 
+<H3>Name : DARIO G</H3> 
 <H3>Register no : 212222230027</H3>
 <H3>Date : 12/09/2024 </H3>
 <H3>Experiment No. 2 </H3>
